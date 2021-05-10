@@ -31,5 +31,6 @@ AI and accomplishes it using speech.py module created by us.
     text = 'Hi! My Name is VIS. I have been developed by Syed Raza Ali Razvi'
     speech.speak(text)
     
-The above code results in a speech output
+The above code results in a speech output:
+
 Hi! My name is VIS. I have been developed by Syed Raza Ali Razvi.
